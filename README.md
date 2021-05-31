@@ -26,6 +26,9 @@ A briefing of everything that's been covered in this playlist, so you know what 
 #2 - **BLoC Core Concepts** - In this tutorial I got really in-depth in explaining streams, and the concepts of blocs & cubits.
 
 #3 - **Flutter BLoc Concepts** - Here, I discussed each and every single one of bloc_library's concept like BlocProvider, BlocBuilder, BlocListener and many many more. These concepts are obviously explained and tested in every tutorial, since they are the base of bloc_library.
+![image](https://user-images.githubusercontent.com/64513385/120223313-0b2b4980-c25f-11eb-8c81-c75e57ca97d1.png)
+![image](https://user-images.githubusercontent.com/64513385/120223521-56455c80-c25f-11eb-92ec-91faecfddee4.png)
+
 
 #4 - **BLoC Architecture** - In this tutorial I made a short introduction on what I believe it's the best architecture to follow in order to structure and scale your code over time! This video has no code inside my github page, since I'm planning on using it extensively on my follow-up tutorial series on building real world apps!
 
