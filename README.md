@@ -37,6 +37,9 @@ A briefing of everything that's been covered in this playlist, so you know what 
 
 
 #4 - **BLoC Architecture** - In this tutorial I made a short introduction on what I believe it's the best architecture to follow in order to structure and scale your code over time! This video has no code inside my github page, since I'm planning on using it extensively on my follow-up tutorial series on building real world apps!
+![image](https://user-images.githubusercontent.com/64513385/120224724-99a0ca80-c261-11eb-9dac-02331a915681.png)
+![image](https://user-images.githubusercontent.com/64513385/120224807-c0f79780-c261-11eb-8208-da1e99c49a19.png)
+![image](https://user-images.githubusercontent.com/64513385/120225129-4bd89200-c262-11eb-946e-e548ee56c4c4.png)
 
 #5 - **BLoC Testing** - Testing is one of the most important pillars of programming, oftenly omitted by developers. In this video I'll explain what are the basics of testing a bloc-built small application.
 
