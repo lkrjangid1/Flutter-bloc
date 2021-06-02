@@ -46,6 +46,12 @@ A briefing of everything that's been covered in this playlist, so you know what 
 #5 - **BLoC Testing** - Testing is one of the most important pillars of programming, oftenly omitted by developers. In this video I'll explain what are the basics of testing a bloc-built small application.
 
 #6 - **BLoC Access & Navigation** - In this tutorial I got really in-depth on what are the routing options on which you can successfully provide a cubit/bloc to the widget tree.
+<img alt="rout type" src="https://user-images.githubusercontent.com/64513385/120444471-4768c200-c3a5-11eb-9b1e-6eb87df567d8.png">
+### Anonymous Routing example 
+<img alt="pagerouteinbloc" src="https://user-images.githubusercontent.com/64513385/120444510-4fc0fd00-c3a5-11eb-914a-d9c39b2045fd.png">
+
+![image](https://user-images.githubusercontent.com/64513385/120444418-39b33c80-c3a5-11eb-85e8-87f8b2d54c99.png)
+
 
 #7 - **Bloc-to-bloc Communication** - Here I wanted all my viewers to understand how important it is to know how to make 2 blocs/cubit communicate one with another.
 
